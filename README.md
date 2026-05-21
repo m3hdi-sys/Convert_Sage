@@ -16,6 +16,11 @@ Ce code intègre une fonction de reconnaissance par dictionnaire (`MAPPING_SARL_
 Ce projet est un outil vivant, en cours d'amélioration continue. Le code sera mis à jour au fur et à mesure pour optimiser les performances et ajouter de nouveaux modules. 
 *En cours de développement : Un utilitaire d'extraction OCR/Regex pour traiter directement des factures au format PDF complexe.*
 
+## 🌍 Démo en direct
+Testez l'application directement ici : [**Convertisseur Sage - Live**](https://convert-sage-app.onrender.com)
+
+> ⏳ *Note : L'application étant hébergée sur un serveur gratuit, elle se met en veille en cas d'inactivité. Le tout premier chargement peut donc prendre environ 50 secondes pour se réveiller. Les actions suivantes seront instantanées !*
+
 ## 🛠️ Installation & Lancement Rapide
 1. Clonez ce dépôt sur votre machine locale : 
    `git clone https://github.com/VOTRE_LIEN/Convert_Sage.git`
