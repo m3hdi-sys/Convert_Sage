@@ -17,7 +17,17 @@ Ce projet est un outil vivant, en cours d'amélioration continue. Le code sera m
 *En cours de développement : Un utilitaire d'extraction OCR/Regex pour traiter directement des factures au format PDF complexe.*
 
 ## 🛠️ Installation & Lancement Rapide
-1. Clonez ce dépôt sur votre machine locale.
-2. Installez les dépendances requises : `pip install -r requirements.txt`
-3. Lancez le serveur local Django : `python manage.py runserver`
-4. Ouvrez votre navigateur sur l'adresse indiquée par le terminal (généralement `http://127.0.0.1:8000`).
+1. Clonez ce dépôt sur votre machine locale : 
+   `git clone https://github.com/VOTRE_LIEN/Convert_Sage.git`
+2. Placez-vous dans le dossier du projet : 
+   `cd Convert_Sage`
+3. Créez un environnement virtuel isolé : 
+   `python -m venv venv`
+4. Activez l'environnement virtuel :
+   * Sur Windows : `venv\Scripts\activate`
+   * Sur Mac/Linux : `source venv/bin/activate`
+5. Installez les dépendances requises : 
+   `pip install -r requirements.txt`
+6. Lancez le serveur local Django : 
+   `python manage.py runserver`
+7. Ouvrez votre navigateur sur l'adresse indiquée (généralement `http://127.0.0.1:8000`).
