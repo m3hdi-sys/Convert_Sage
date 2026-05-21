@@ -23,7 +23,7 @@ Testez l'application directement ici : [**Convertisseur Sage - Live**](https://c
 
 ## 🛠️ Installation & Lancement Rapide
 1. Clonez ce dépôt sur votre machine locale : 
-   `git clone https://github.com/VOTRE_LIEN/Convert_Sage.git`
+   `https://github.com/m3hdi-sys/Convert_Sage.git`
 2. Placez-vous dans le dossier du projet : 
    `cd Convert_Sage`
 3. Créez un environnement virtuel isolé : 
